@@ -1,5 +1,3 @@
-# qrNXL
-NGÔ XUÂN LỘC
 <!DOCTYPE html>
 <html lang="vi">
 <head>
